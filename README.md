@@ -11,7 +11,7 @@ Make sure you have Python installed on your system. You can download it from [py
 
 ## Setup
 
-1. After downloading your data from Meta, move these two scripts inside the `followers_and_following` folder. The folder structure should look something like this:
+1. After downloading your data from Meta, move these two scripts inside the `followers_and_following` folder. Your folder structure should look something like this:
 
    ```
    connections/followers_and_following
@@ -22,7 +22,7 @@ Make sure you have Python installed on your system. You can download it from [py
     pip install beautifulsoup4
     ```
 
-3. Change file names inside the `retrieve.py` file (Optional)
+3. Change file names inside the `retrieve.py` script (Optional)
     
 
 ## Usage

@@ -29,12 +29,12 @@ Make sure you have Python installed on your system. You can download it from [py
 ### HTML Parser
 Run the `retrieve.py` script to extract usernames from an HTML file.
 ```bash
-python html_parser.py
+python retrieve.py
 ```
 
 ### File comparator
 Run the `compare.py` script to compare elements in `followers.txt` and `following.txt`.
 ```bash
-python file_comparator.py
+python compare.py
 ```
 The exclusive elements will be written to `users.txt`.
